@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/patelmaitreya" target="blank"><img src="https://img.shields.io/twitter/follow/patelmaitreya?logo=twitter&style=for-the-badge" alt="patelmaitreya" /></a> </p>
 
-- 🔭 I’m currently working on **Text-to-Image Compositionality**
+- 🔭 I’m currently working on **Robust Text-to-Image Compositionality**
 
 - 🌱 I’m currently learning **3D Vision**
 
 - 🤝 I’m looking for help with [creating a research collection of Stable Diffusion plugins](https://github.com/Maitreyapatel/LSDGen)
 
-- 👨‍💻 All of my projects are available at [maitreyapatel.com](maitreyapatel.com)
+- 👨‍💻 About me: [maitreyapatel.com](maitreyapatel.com)
 
 - 💬 Ask me about **Vision-Language & ML**
 
@@ -20,6 +20,8 @@
 <a href="https://instagram.com/maitreya_jp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maitreya_jp" height="30" width="40" /></a>
 </p>
 
+<!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maitreyapatel&show_icons=true&locale=en" alt="maitreyapatel" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitreyapatel&" alt="maitreyapatel" /></p>
