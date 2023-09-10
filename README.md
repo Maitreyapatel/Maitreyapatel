@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [creating a research collection of Stable Diffusion plugins](https://github.com/Maitreyapatel/LSDGen)
 
-- 👨‍💻 About me: [maitreyapatel.com](maitreyapatel.com)
+- 👨‍💻 About me: [maitreyapatel.com](https://maitreyapatel.com)
 
 - 💬 Ask me about **Vision-Language & ML**
 
