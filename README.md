@@ -27,7 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitreyapatel&mode=weekly" alt="maitreyapatel" /></p>
 
 
-<details>
-  <summary></summary>
-  ![](https://komarev.com/ghpvc/?username=Maitreyapatel&style=for-the-badge)  
-</details>
+![](https://komarev.com/ghpvc/?username=Maitreyapatel&style=for-the-badge)  
