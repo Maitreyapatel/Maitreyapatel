@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maitreya</h1>
-<h3 align="center">A PhD Student Pondering about AI & Life</h3>
+<h3 align="center">A PhD student pondering about AI & Life</h3>
 
 <p align="left"> <a href="https://twitter.com/patelmaitreya" target="blank"><img src="https://img.shields.io/twitter/follow/patelmaitreya?logo=twitter&style=for-the-badge" alt="patelmaitreya" /></a> </p>
 
@@ -25,3 +25,9 @@
 -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitreyapatel&mode=weekly" alt="maitreyapatel" /></p>
+
+
+<details>
+  <summary></summary>
+  ![](https://komarev.com/ghpvc/?username=Maitreyapatel&style=for-the-badge)  
+</details>
