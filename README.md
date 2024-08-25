@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **3D Vision**
 
-- 🤝 I’m looking for help with [creating a research collection of Stable Diffusion plugins](https://github.com/Maitreyapatel/LSDGen)
+- 🤝 Organizing NeurIPS'24 [Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models](https://asu-apg.github.io/rbfm/)
 
 - 👨‍💻 About me: [maitreyapatel.com](https://maitreyapatel.com)
 
