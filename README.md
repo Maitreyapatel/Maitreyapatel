@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/patelmaitreya" target="blank"><img src="https://img.shields.io/twitter/follow/patelmaitreya?logo=twitter&style=for-the-badge" alt="patelmaitreya" /></a> </p>
 
-- 🔭 I’m currently working on **Robust Text-to-Image Compositionality**
+- 🔭 I’m currently working on **Distillation-free Fast Diffusion Models**
 
-- 🌱 I’m currently learning **3D Vision**
-
-- 🤝 Organizing NeurIPS'24 [Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models](https://asu-apg.github.io/rbfm/)
+- 🌱 I’m currently learning **some pretty cool stuff :)**
 
 - 👨‍💻 About me: [maitreyapatel.com](https://maitreyapatel.com)
 
-- 💬 Ask me about **Vision-Language & ML**
+- 💬 Ask me about **Multimodal Generative Models & ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
